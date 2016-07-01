@@ -25,6 +25,11 @@ app.get('/', function (req, res) {
     });
 });
 
+// Load test verification
+app.get('/loaderio-6aa5865fcc6178a51838d5da318bac81', function(req, res) {
+   res.end('loaderio-6aa5865fcc6178a51838d5da318bac81');
+});
+
 // Manually Fetch and Join Makes to Models
 app.get('/api/modelsWithMakesPopulate', function( req, res ) {
     vehiclemodel.find().populate('make').exec(function(err, data) {
