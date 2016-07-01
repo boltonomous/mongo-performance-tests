@@ -1,0 +1,112 @@
+{"_id":{"$oid":"5776a32b3f62594ba122f7e6"},"legacy_id":2.0,"name":"Chevrolet","url_alias":"chevrolet","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7e7"},"legacy_id":3.0,"name":"Mazda","url_alias":"mazda","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7e8"},"legacy_id":4.0,"name":"Mercedes-Benz","url_alias":"mercedes-benz","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7e9"},"legacy_id":5.0,"name":"Mercury","url_alias":"mercury","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ea"},"legacy_id":6.0,"name":"Mini","url_alias":"mini","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7eb"},"legacy_id":7.0,"name":"Mitsubishi","url_alias":"mitsubishi","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ec"},"legacy_id":8.0,"name":"Nissan","url_alias":"nissan","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ed"},"legacy_id":9.0,"name":"Panoz","url_alias":"panoz","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ee"},"legacy_id":10.0,"name":"Pontiac","url_alias":"pontiac","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ef"},"legacy_id":11.0,"name":"Porsche","url_alias":"porsche","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f0"},"legacy_id":12.0,"name":"Rolls-Royce","url_alias":"rolls-royce","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f1"},"legacy_id":13.0,"name":"Saab","url_alias":"saab","market_segment":"luxury","state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f2"},"legacy_id":14.0,"name":"Saturn","url_alias":"saturn","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f3"},"legacy_id":15.0,"name":"Subaru","url_alias":"subaru","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f4"},"legacy_id":16.0,"name":"Suzuki","url_alias":"suzuki","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f5"},"legacy_id":17.0,"name":"Toyota","url_alias":"toyota","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f6"},"legacy_id":18.0,"name":"Volkswagen","url_alias":"volkswagen","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f7"},"legacy_id":19.0,"name":"Volvo","url_alias":"volvo","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f8"},"legacy_id":20.0,"name":"Maybach","url_alias":"maybach","market_segment":"luxury","state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7f9"},"legacy_id":21.0,"name":"Saleen","url_alias":"saleen","market_segment":"luxury","state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7fa"},"legacy_id":22.0,"name":"Morgan","url_alias":"morgan","market_segment":"luxury","state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7fb"},"legacy_id":23.0,"name":"Mosler","url_alias":"mosler","market_segment":"luxury","state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7fc"},"legacy_id":24.0,"name":"Scion","url_alias":"scion","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7fd"},"legacy_id":25.0,"name":"Acura","url_alias":"acura","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7fe"},"legacy_id":26.0,"name":"Aston Martin","url_alias":"aston-martin","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f7ff"},"legacy_id":27.0,"name":"Audi","url_alias":"audi","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f800"},"legacy_id":28.0,"name":"Bentley","url_alias":"bentley","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f801"},"legacy_id":29.0,"name":"BMW","url_alias":"bmw","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f802"},"legacy_id":30.0,"name":"Buick","url_alias":"buick","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f803"},"legacy_id":31.0,"name":"Cadillac","url_alias":"cadillac","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f804"},"legacy_id":32.0,"name":"Chrysler","url_alias":"chrysler","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f805"},"legacy_id":33.0,"name":"Dodge","url_alias":"dodge","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f806"},"legacy_id":34.0,"name":"Ferrari","url_alias":"ferrari","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f807"},"legacy_id":35.0,"name":"Ford","url_alias":"ford","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f808"},"legacy_id":36.0,"name":"GMC","url_alias":"gmc","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f809"},"legacy_id":37.0,"name":"Honda","url_alias":"honda","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80a"},"legacy_id":38.0,"name":"Hummer","url_alias":"hummer","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80b"},"legacy_id":39.0,"name":"Hyundai","url_alias":"hyundai","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80c"},"legacy_id":40.0,"name":"Infiniti","url_alias":"infiniti","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80d"},"legacy_id":41.0,"name":"Isuzu","url_alias":"isuzu","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80e"},"legacy_id":42.0,"name":"Jaguar","url_alias":"jaguar","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f80f"},"legacy_id":43.0,"name":"Jeep","url_alias":"jeep","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f810"},"legacy_id":44.0,"name":"Kia","url_alias":"kia","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f811"},"legacy_id":45.0,"name":"Lamborghini","url_alias":"lamborghini","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f812"},"legacy_id":46.0,"name":"Land Rover","url_alias":"land-rover","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f813"},"legacy_id":47.0,"name":"Lexus","url_alias":"lexus","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f814"},"legacy_id":48.0,"name":"Lincoln","url_alias":"lincoln","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f815"},"legacy_id":49.0,"name":"Lotus","url_alias":"lotus","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f816"},"legacy_id":50.0,"name":"Maserati","url_alias":"maserati","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f817"},"legacy_id":51.0,"name":"Bugatti","url_alias":"bugatti","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f818"},"legacy_id":52.0,"name":"Alfa Romeo","url_alias":"alfa-romeo","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f819"},"legacy_id":53.0,"name":"Smart","url_alias":"smart","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81a"},"legacy_id":54.0,"name":"Tesla","url_alias":"tesla","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81b"},"legacy_id":59.0,"name":"Spyker","url_alias":"spyker","market_segment":"luxury","state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81c"},"legacy_id":64.0,"name":"Fiat","url_alias":"fiat","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81d"},"legacy_id":66.0,"name":"Fisker","url_alias":"fisker","market_segment":0.0,"state":"archived"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81e"},"legacy_id":78.0,"name":"KTM","url_alias":"ktm","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f81f"},"legacy_id":92.0,"name":"Artega","url_alias":"artega","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f820"},"legacy_id":97.0,"name":"Koenigsegg","url_alias":"koenigsegg","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f821"},"legacy_id":98.0,"name":"Pagani","url_alias":"pagani","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f822"},"legacy_id":112.0,"name":"Caterham","url_alias":"caterham","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f823"},"legacy_id":148.0,"name":"BRP","url_alias":"brp","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f824"},"legacy_id":149.0,"name":"Aptera","url_alias":"aptera","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f825"},"legacy_id":150.0,"name":"McLaren","url_alias":"mclaren","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f826"},"legacy_id":151.0,"name":"Gumpert","url_alias":"gumpert","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f827"},"legacy_id":160.0,"name":"Ariel","url_alias":"ariel","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f828"},"legacy_id":162.0,"name":"Ram","url_alias":"ram","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f829"},"legacy_id":163.0,"name":"SRT","url_alias":"srt","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82a"},"legacy_id":167.0,"name":"SPONSORED TEST","url_alias":"sponsored-test","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82b"},"legacy_id":166.0,"name":"Detroit Electric","url_alias":"detroit-electric","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82c"},"legacy_id":168.0,"name":"Plymouth","url_alias":"plymouth","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82d"},"legacy_id":169.0,"name":"Oldsmobile","url_alias":"oldsmobile","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82e"},"legacy_id":170.0,"name":"Mercedes-AMG","url_alias":"mercedes-amg","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f82f"},"legacy_id":171.0,"name":"Lancia","url_alias":"lancia","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f830"},"legacy_id":172.0,"name":"Austin-Healey","url_alias":"austin-healey","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f831"},"legacy_id":173.0,"name":"Bristol Cars","url_alias":"bristol-cars","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f832"},"legacy_id":174.0,"name":"Daihatsu","url_alias":"daihatsu","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f833"},"legacy_id":175.0,"name":"Triumph","url_alias":"triumph","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f834"},"legacy_id":176.0,"name":"Renault","url_alias":"renault","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f835"},"legacy_id":177.0,"name":"Morris","url_alias":"morris","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f836"},"legacy_id":178.0,"name":"Peugeot","url_alias":"peugeot","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f837"},"legacy_id":179.0,"name":"Sunbeam","url_alias":"sunbeam","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f838"},"legacy_id":180.0,"name":"MG","url_alias":"mg","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f839"},"legacy_id":181.0,"name":"Austin","url_alias":"austin","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83a"},"legacy_id":182.0,"name":"Freightliner","url_alias":"freightliner","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83b"},"legacy_id":183.0,"name":"Citro\u0026euml;n","url_alias":"citro","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83c"},"legacy_id":184.0,"name":"Vauxhall","url_alias":"vauxhall","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83d"},"legacy_id":185.0,"name":"Mercedes-Maybach","url_alias":"mercedes-maybach","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83e"},"legacy_id":186.0,"name":"Apple","url_alias":"apple","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f83f"},"legacy_id":187.0,"name":"Google","url_alias":"google","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f840"},"legacy_id":188.0,"name":"Spania GTA","url_alias":"spania-gta","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f841"},"legacy_id":189.0,"name":"Skoda","url_alias":"skoda","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f842"},"legacy_id":190.0,"name":"Jensen","url_alias":"jensen","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f843"},"legacy_id":191.0,"name":"Opel","url_alias":"opel","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f844"},"legacy_id":192.0,"name":"Borgward","url_alias":"borgward","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f845"},"legacy_id":193.0,"name":"BYD","url_alias":"byd","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f846"},"legacy_id":194.0,"name":"De Tomaso","url_alias":"de-tomaso","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f847"},"legacy_id":195.0,"name":"AC","url_alias":"ac","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f848"},"legacy_id":196.0,"name":"Denbeigh","url_alias":"denbeigh","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f849"},"legacy_id":197.0,"name":"Shelby","url_alias":"shelby","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84a"},"legacy_id":198.0,"name":"Vector","url_alias":"vector","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84b"},"legacy_id":199.0,"name":"Smith","url_alias":"smith","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84c"},"legacy_id":200.0,"name":"International Harvester","url_alias":"international-harvester","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84d"},"legacy_id":201.0,"name":"AMC","url_alias":"amc","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84e"},"legacy_id":202.0,"name":"BAC","url_alias":"bac","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f84f"},"legacy_id":203.0,"name":"Elemental Cars","url_alias":"elemental-cars","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f850"},"legacy_id":204.0,"name":"Seat","url_alias":"seat","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f851"},"legacy_id":205.0,"name":"Thunder Power","url_alias":"thunder-power","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f852"},"legacy_id":206.0,"name":"DS","url_alias":"ds","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f853"},"legacy_id":207.0,"name":"DMC","url_alias":"dmc","market_segment":0.0,"state":"hidden"}
+{"_id":{"$oid":"5776a32b3f62594ba122f854"},"legacy_id":208.0,"name":"Genesis","url_alias":"genesis","market_segment":0.0,"state":"published"}
+{"_id":{"$oid":"5776a32b3f62594ba122f855"},"legacy_id":209.0,"name":"Faraday Future","url_alias":"faraday-future","market_segment":0.0,"state":"hidden"}

@@ -36,8 +36,8 @@ app.get('/api/modelsWithMakesPopulate', function( req, res ) {
 });
 
 // Manually Fetch Models, NO JOIN
-app.get('/api/models', function( req, res ) {
-    vehiclemodel.find().populate('make').exec(function(err, data) {
+app.get('/api/getModels', function( req, res ) {
+    vehiclemodel.find().exec(function(err, data) {
         if (err) {
             return res.statusCode(500).json( { status: 500});
         }
@@ -104,7 +104,7 @@ function cacheModels() {
             let row = data[i];
             localModelsMap.set( String( row._id ), row )
         }
-        console.log(`Cached ${localModelsMap.size} Vehicle Makes`)
+        console.log(`Cached ${localModelsMap.size} Vehicle Models`)
     });
 }
 cacheMakes();
