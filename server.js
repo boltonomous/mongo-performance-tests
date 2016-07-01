@@ -60,6 +60,39 @@ app.get('/api/getModelsCached', function( req, res ) {
     return res.json( modifiedData )
 });
 
+// Manually Fetch Models, NO JOIN
+app.get('/api/getPublishedModels', function( req, res ) {
+    vehiclemodel.find({'state':'published'}).exec(function(err, data) {
+        if (err) {
+            return res.statusCode(500).json( { status: 500});
+        }
+        res.json( {"status":200,"metadata": { "count": data.length}, "data": data} );
+    });
+});
+
+// Manually Fetch Models, NO JOIN
+app.get('/api/getPublishedModelsWithPopulate', function( req, res ) {
+    vehiclemodel.find({'state':'published'}).populate('make').exec(function(err, data) {
+        if (err) {
+            return res.statusCode(500).json( { status: 500});
+        }
+        res.json( {"status":200,"metadata": { "count": data.length}, "data": data} );
+    });
+});
+
+// Manually Fetch published Models JOIN from LOCAL CACHE
+app.get('/api/getPublishedModelsCached', function( req, res ) {
+    let modifiedData = JSON.parse( JSON.stringify( Array.from( localModelsMap.values() ) ) );
+    modifiedData = modifiedData.filter(function(value) {
+       return ( value.state === 'published');
+    });
+    for (let i in modifiedData) {
+        let row = modifiedData[ i ];
+        modifiedData[ i ].make = localMakesMap.get( String(row.make) );
+    }
+    return res.json( modifiedData )
+});
+
 // Manually Fetch Makes from Mongo
 app.get('/api/getMakes', function( req, res ) {
     vehiclemake.find().exec(function(err, data) {
