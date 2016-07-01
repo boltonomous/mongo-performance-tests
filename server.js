@@ -60,6 +60,22 @@ app.get('/api/getModelsCached', function( req, res ) {
     return res.json( modifiedData )
 });
 
+// Manually Fetch Makes from Mongo
+app.get('/api/getMakes', function( req, res ) {
+    vehiclemake.find().exec(function(err, data) {
+        if (err) {
+            return res.statusCode(500).json( { status: 500});
+        }
+        res.json( {"status":200,"metadata": { "count": data.length}, "data": data} );
+    });
+});
+
+// Manually Fetch Makes from LOCAL CACHE
+app.get('/api/getMakesCached', function( req, res ) {
+    let modifiedData = JSON.parse( JSON.stringify( Array.from( localMakesMap.values() ) ) );
+    return res.json( modifiedData )
+});
+
 app.get('/api/updateIds', function( req, res ) {
     vehiclemake.find().exec(function(err, data) {
         if (err) {
